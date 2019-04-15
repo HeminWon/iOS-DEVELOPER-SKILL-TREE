@@ -39,8 +39,10 @@
 #### 专栏
 - [awesome-tips/iOS-Tips](https://github.com/awesome-tips/iOS-Tips)by iOS知识小集
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)by 老司机iOS周报
-- [nshipster](https://nshipster.cn/)
+- [swift.gg/](https://swift.gg/)
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)
+- [nshipster](https://nshipster.cn/)
+- [ObjC 中国](https://objccn.io/)
 
 #### 团队博客
 - [淘宝前端团队](http://taobaofed.org/)

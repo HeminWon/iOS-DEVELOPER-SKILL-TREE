@@ -4,6 +4,7 @@ article list | abstract
 :-- | :--:
 [关于《HTTP权威指南》每章的知识点总结！](https://github.com/woai30231/http) by woai30231 |
 [HTTP GET 和 POST 深入理解](https://jaminzhang.github.io/http/HTTP-GET-vs-POST-deep-understanding/) by jaminzhang |
+[四种常见的 POST 提交数据方式](https://imququ.com/post/four-ways-to-post-data-in-http.html) by imququ |
 [Http协议中的各种长度限制总结](https://cnbin.github.io/blog/2016/02/20/httpxie-yi-zhong-de-ge-chong-chang-du-xian-zhi-zong-jie/) by cnbin |
 [一篇文章带你详解 HTTP 协议（网络协议篇一）](http://www.jianshu.com/p/6e9e4156ece3) by 涤生_Woo |
 [HTTP长连接和短连接](http://www.cnblogs.com/0201zcr/p/4694945.html) by WhyWin |

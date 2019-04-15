@@ -13,6 +13,9 @@ clang / objc runtime / 类对象 / 元类对象 / 动态方法添加 / 动态方
 #### 应用场景
 - [OC-RunTime: 总结消息转发中用到的知识点](http://www.veryitman.com/2018/04/05/OC-RunTime-%E6%80%BB%E7%BB%93%E6%B6%88%E6%81%AF%E8%BD%AC%E5%8F%91%E4%B8%AD%E7%94%A8%E5%88%B0%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9/) by veryitman
 - [iOS知识点-Runtime](http://blog.91renb.com/p/20180121-ios-runtime.html) by 91renb 
+- [Objective-C Method Swizzling 的最佳实践](http://blog.leichunfeng.com/blog/2015/06/14/objective-c-method-swizzling-best-practice/) by leichunfeng
+- [Method Swizzling的各种姿势](http://www.tanhao.me/code/160723.html/) by tanhao
+- [探究使用Method Swizzling的正确姿势](https://shixiong.name/2019/03/01/the-right-way-to-swizzling/index.html) by shixiong
 
 #### 参考文章
 article list | abstract
