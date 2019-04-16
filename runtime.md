@@ -16,6 +16,7 @@ clang / objc runtime / 类对象 / 元类对象 / 动态方法添加 / 动态方
 - [Objective-C Method Swizzling 的最佳实践](http://blog.leichunfeng.com/blog/2015/06/14/objective-c-method-swizzling-best-practice/) by leichunfeng
 - [Method Swizzling的各种姿势](http://www.tanhao.me/code/160723.html/) by tanhao
 - [探究使用Method Swizzling的正确姿势](https://shixiong.name/2019/03/01/the-right-way-to-swizzling/index.html) by shixiong
+- [iOS Hook 方案解析](https://junyixie.github.io/2017/11/30/ioshookanalysis/) by junyixie
 
 #### 参考文章
 article list | abstract
