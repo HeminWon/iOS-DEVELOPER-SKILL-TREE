@@ -2,7 +2,7 @@ lock
 #### 参考文章
 article list | abstract
 :-- | :--:
-[探讨iOS开发中各种锁](https://www.jianshu.com/p/6773757a6cd5) by MrLeoZou |
+[探讨iOS开发中各种锁](https://mrleozou.github.io/2017/12/11/iOS%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E5%90%84%E7%A7%8D%E9%94%81/) by MrLeoZou |
 [深入理解 iOS 开发中的锁](https://bestswifter.com/ios-lock/) by bestswifter |
 [iOS开发中的11种锁以及性能对比](https://www.jianshu.com/p/b1edc6b0937a) by SuperMario_Nil |
 [Objective-C中不同方式实现锁(二)](http://www.tanhao.me/pieces/643.html/) by tanhao |

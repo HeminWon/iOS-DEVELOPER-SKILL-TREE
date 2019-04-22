@@ -25,16 +25,19 @@
 - 开发阶段
   - [启动流程](start.md)
   - [性能监控](performance-monitor.md)
+  - [耗电监控](battery-monitor.md)
   - [调试知识](debug.md)
   - [包瘦身](package-slimming.md)
   - [数据持久化](cache.md)
-  - [架构]()
-  - 单元测试
-  - [持续集成](Continuous-integration.md)
+  - [单元测试]()
 
 - UI
   - [图像显示](graphic-display.md)
   - [事件响应链](dispatch-touchevent-theory.md)
+
+- 综合
+  - [持续集成](Continuous-integration.md)
+  - [架构]()
 
 #### 专栏
 - [awesome-tips/iOS-Tips](https://github.com/awesome-tips/iOS-Tips)by iOS知识小集
