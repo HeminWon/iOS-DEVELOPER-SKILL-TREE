@@ -6,6 +6,8 @@
 - [从 Auto Layout 的布局算法谈性能](https://draveness.me/layout-performance) by draveness |
 - [ios – 为什么约束更改或动画不需要调用setNeedsUpdateConstraints？](https://codeday.me/bug/20181208/442974.html) by codeday
 - [请问这个怎么理解，为什么更新约束是从子视图到父视图？](https://github.com/Draveness/analyze/issues/44) by draveness
+- [内存恶鬼drawRect - 谈画图功能的内存优化](https://mp.weixin.qq.com/s?__biz=MjM5NTIyNTUyMQ==&mid=447105405&idx=1&sn=054dc54289a98e8a39f2b9386f4f620e&scene=0%2523wechat_redirect) by 毕洪博
+
 
 #### 参考文章
 article list | abstract
